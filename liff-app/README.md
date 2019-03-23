@@ -22,3 +22,6 @@ The LIFF application included in this repository can also be hosted by using Git
 For details on Bluetooth LE plugin API for LINE Things on LIFF, please refer to the following document (English to follow shortly):
 
 https://developers.line.biz/ja/reference/line-things/
+
+## GitHub Pages
+[This repo](https://yoshithechinchilla.github.io/line-things-starter/liff-app)
